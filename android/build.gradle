@@ -38,6 +38,8 @@ android {
         minSdk 19
         targetSdk 32
     }
+
+    namespace "vn.hunghd.flutterdownloader"
 }
 
 dependencies {
